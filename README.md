@@ -9,7 +9,7 @@ Group A is designed towards students who
 
 Group A can be conducted in Cantonese if everybody understands Cantonese. However the notes will still be written in English.
 
-
+---
 # Syllabus & Schedule
 
 ## Pre-requisite 
