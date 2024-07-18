@@ -9,6 +9,8 @@ Group A is designed towards students who
 
 Group A can be conducted in Cantonese if everybody understands Cantonese. However the notes will still be written in English.
 
+These notes were previously hand-written on whiteboard, and transformed into .pdf through OneNote during the period of Covid-19. Currently I have no plan to convert them into Latex since there are too many annotations and drawings. 
+
 ---
 # Syllabus & Schedule
 
