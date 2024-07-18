@@ -9,23 +9,23 @@ Group A is designed towards students who
 
 Group A can be conducted in Cantonese if everybody understands Cantonese. However the notes will still be written in English.
 
-These notes were previously hand-written on whiteboard, and transformed into .pdf through OneNote during the period of Covid-19. Currently I have no plan to convert them into Latex since there are too many annotations and drawings. 
+These notes were originally hand-written on whiteboard, and transfered to .pdf through OneNote for online learning due to the pandemic. I currently have no plan to convert them into Latex since there are too many annotations and drawings. 
 
 ---
 # Syllabus & Schedule
 
 ## Pre-requisite 
 
-Most of the topics in mechanics will not be focused since they are already in the syllabus of the Hong Kong Physics Olympiad Competition (HKPhO).
-- Constant acceleration motion, projectile
+Most of the topics in mechanics will not be focused since they are already in the Hong Kong Physics Olympiad Competition (HKPhO) syllabus.
+- Constant acceleration motion, projectile motion
 - Force, torque, center of mass
-- Energy
-- Momentum
-- Circular motion, gravitation
+- Mechanical Energy
+- Momentum & Impulse
+- Circular motion, gravitational motion
 - Simple Harmonic Motion
 - Static fluid mechanics
 
-They shall be reviewed through practices, if time allows.
+They may be reviewed through practices, if time allows in the tutorials.
 
 
 ## Syllabus
@@ -43,8 +43,8 @@ They shall be reviewed through practices, if time allows.
 
 ### T08 - T10 : Thermodynamics
 - Thermal 1st Law
-- Entropy & heat engines
-- Entropy & Statistical Mechanics; Maxwell-Boltzmann Distribution
+- Entropy in heat engines
+- Entropy in Statistical Mechanics; Maxwell-Boltzmann Distribution
 
 ### T11 - T16 : Electrodynamics
 - Electrostatics
@@ -57,8 +57,8 @@ They shall be reviewed through practices, if time allows.
 ### T17 - T19 : Optics
 - Geometrical Optics
 - Interference & Diffraction
-- EM Wave solution; Fresnel Equation
+- EM Wave solution; Fresnel Equations
 
 ### T20 - T21 : Special Relativity
 - Special Relativity by Matrix Transformation
-- Energy - Momentum Conservation; Spacetime Intervals
+- Energy-Momentum Conservation; Spacetime Intervals
