@@ -9,7 +9,10 @@ Group A is designed towards students who
 
 Group A can be conducted in Cantonese if everybody understands Cantonese. However the notes will still be written in English.
 
-These notes were originally hand-written on whiteboard, and transfered to .pdf through OneNote for online learning due to the pandemic. I currently have no plan to convert them into Latex since there are too many annotations and drawings. 
+These notes were originally hand-written on whiteboard, and transfered to .pdf through OneNote for online learning due to the pandemic. ~~I currently have no plan to convert them into Latex since there are too many annotations and drawings.~~ 
+
+A latex conversion project has been started in [here](https://github.com/mtshing/PEP-GroupA-latex). However the progress is very slow. Don't expect it to catch up the training schedule.
+
 
 ---
 # Syllabus & Schedule
